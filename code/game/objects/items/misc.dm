@@ -23,5 +23,5 @@
 	throw_range = 20
 	flags = CONDUCT
 
-obj/item/pogfish
+/obj/item/pogfish
 	name = "pogfish"
