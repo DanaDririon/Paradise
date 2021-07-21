@@ -22,3 +22,6 @@
 	throw_speed = 1
 	throw_range = 20
 	flags = CONDUCT
+
+obj/item/pogfish
+	name = "pogfish"
